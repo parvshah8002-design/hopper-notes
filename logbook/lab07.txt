@@ -1,0 +1,3 @@
+LAB 7 LOGBOOK - <Parv Shah>> - <e26b07f0607>
+SETUP: clang version ??? python3 version ???
+T1 prediction: ./hello.c will ??? and python3 hello.c will ???
